@@ -1,7 +1,6 @@
 <manifest>
-  <pr0oject path="device/nokia/PL2" name="kiam001/android_device_nokia_PL2" remote="github" revision="Elixir-Tiramisu" />
+  <project path="device/nokia/PL2" name="kiam001/android_device_nokia_PL2" remote="github" revision="Elixir-Tiramisu" />
   <project path="device/nokia/sdm660-common" name="kiam001/android_device_nokia_sdm660-common" remote="github" revision="lineage-20" />
   <project path="kernel/nokia/sdm660" name="LineageOS/android_kernel_nokia_sdm660" remote="github" revision="lineage-20" />
-  <remote  name="gitlab" fetch="https://gitlab.com/" />
   <project path="vendor/nokia" name="TheMuppets/proprietary_vendor_nokia" remote="github" revision="lineage-19.1" />
 </manifest>

@@ -4,4 +4,6 @@
   <project path="kernel/nokia/sdm660" name="LineageOS/android_kernel_nokia_sdm660" remote="github" revision="lineage-20" />
   <project path="vendor/nokia" name="TheMuppets/proprietary_vendor_nokia" remote="github" revision="lineage-19.1" />
   <project path="prebuilts/clang/host/linux-x86/clang-r416183b" name="LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b" remote="github" revision="lineage-20.0" />
+  <remove-project name="RiceDroid/android_frameworks_base" />
+   <project path="frameworks/base" name="kiam001/android_frameworks_base" remote="github" revision="thirteen" />  
 </manifest>

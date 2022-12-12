@@ -3,5 +3,4 @@
   <project path="device/nokia/sdm660-common" name="kiam001/android_device_nokia_sdm660-common" remote="github" revision="lineage-20" />
   <project path="kernel/nokia/sdm660" name="LineageOS/android_kernel_nokia_sdm660" remote="github" revision="lineage-20" />
   <project path="vendor/nokia" name="TheMuppets/proprietary_vendor_nokia" remote="github" revision="lineage-19.1" />
-  <project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" remote="github" revision="lineage-18.1" />
 </manifest>

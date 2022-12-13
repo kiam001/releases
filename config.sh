@@ -3,12 +3,12 @@
 export GITHUB_USER="kiam001"
 export GITHUB_EMAIL="blablatupfen@gmail.com"
 
-export device="PL2"
+export device="DRG"
 
 export ROM="RiceDroid"
 export ROM_DIR="$WORKSPACE/../RiceDroid-thirteen"
 export ROM_VERSION="thirteen"
-export local_manifest_url="https://raw.githubusercontent.com/kiam001/releases/RiceDroid-thirteen-PL2/manifest.xml"
+export local_manifest_url="https://raw.githubusercontent.com/kiam001/releases/RiceDroid-thirteen-DRG/manifest.xml"
 export manifest_url="https://github.com/RiceDroid/android"
 export rom_vendor_name="lineage"
 export branch="thirteen"

@@ -1,28 +1,26 @@
-#!/bin/bash
+export GITHUB_USER="kiam001"
+export GITHUB_EMAIL="blablatupfen@gmail.com"
 
-export GITHUB_USER=""
-export GITHUB_EMAIL=""
+export device="PL2"
 
-export device=""
-
-export ROM=""
-export ROM_DIR=""
-export ROM_VERSION=""
-export local_manifest_url=""
-export manifest_url=""
-export rom_vendor_name=""
-export branch=""
+export ROM="catalyst-android"
+export ROM_DIR="$WORKSPACE/../catalyst-android-13"
+export ROM_VERSION="13"
+export local_manifest_url="https://raw.githubusercontent.com/kiam001/releases/catalyst-android-13-PL2/manifest.xml"
+export manifest_url="https://github.com/catalyst-android/android"
+export rom_vendor_name="catalyst"
+export branch="13"
 export bacon="bacon"
-export buildtype=""
-export clean=""
-export generate_incremental=""
-export upload_recovery=""
+export buildtype="userdebug"
+export clean="installclean"
+export generate_incremental="true"
+export upload_recovery="true"
 
-export ccache=""
-export ccache_size=""
+export ccache="true"
+export ccache_size="100"
 
-export jenkins="false"
+export jenkins="true"
 
-export release_repo=""
+export release_repo="kiam001/releases"
 
-export timezone="UTC"
+export timezone="Europe/Berlin"

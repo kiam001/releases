@@ -3,12 +3,12 @@
 export GITHUB_USER="kiam001"
 export GITHUB_EMAIL="blablatupfen@gmail.com"
 
-export device="PL2"
+export device="vayu"
 
 export ROM="crdroidandroid"
 export ROM_DIR="$WORKSPACE/../crdroidandroid-13.0"
 export ROM_VERSION="13.0"
-export local_manifest_url="https://raw.githubusercontent.com/kiam001/releases/crdroidandroid-13.0-PL2/manifest.xml"
+export local_manifest_url="https://raw.githubusercontent.com/kiam001/releases/crdroidandroid-13.0-vayu/manifest.xml"
 export manifest_url="https://github.com/crdroidandroid/android"
 export rom_vendor_name="lineage"
 export branch="13.0"

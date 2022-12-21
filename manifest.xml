@@ -1,7 +1,7 @@
 <manifest>
   <project path="device/nokia/PL2" name="kiam001/android_device_nokia_PL2" remote="github" revision="crdroidandroid-13.0" />
   <project path="device/nokia/sdm660-common" name="kiam001/android_device_nokia_sdm660-common" remote="github" revision="lineage-20" />
-  <project path="kernel/nokia/sdm660" name="LineageOS/android_kernel_nokia_sdm660" remote="github" revision="lineage-20" />
+  <project path="kernel/nokia/sdm660" name="kiam001/android_kernel_nokia_sdm660" remote="github" revision="lineage-20" />
   <project path="vendor/nokia" name="TheMuppets/proprietary_vendor_nokia" remote="github" revision="lineage-19.1" />
   <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="crdroid-gitlab" revision="tau" />
 </manifest>

@@ -1,28 +1,28 @@
 #!/bin/bash
 
-export GITHUB_USER=""
-export GITHUB_EMAIL=""
+export GITHUB_USER="kiam001"
+export GITHUB_EMAIL="blablatupfen@gmail.com"
 
-export device=""
+export device="beryllium"
 
-export ROM=""
-export ROM_DIR=""
-export ROM_VERSION=""
-export local_manifest_url=""
-export manifest_url=""
-export rom_vendor_name=""
-export branch=""
+export ROM="bananadroid"
+export ROM_DIR="$WORKSPACE/../bananadroid-13"
+export ROM_VERSION="Tanduk"
+export local_manifest_url="https://raw.githubusercontent.com/Dooms-v/local-manifest/ban-13/local_manifest.xml"
+export manifest_url="https://github.com/bananadroid/android_manifest"
+export rom_vendor_name="banana"
+export branch="13"
 export bacon="bacon"
-export buildtype=""
-export clean=""
-export generate_incremental=""
-export upload_recovery=""
+export buildtype="userdebug"
+export clean="installclean"
+export generate_incremental="true"
+export upload_recovery="true"
 
-export ccache=""
-export ccache_size=""
+export ccache="true"
+export ccache_size="100"
 
-export jenkins="false"
+export jenkins="true"
 
-export release_repo=""
+export release_repo="kiam001/releases"
 
 export timezone="UTC"

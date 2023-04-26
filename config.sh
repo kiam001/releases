@@ -13,7 +13,7 @@ export manifest_url="https://github.com/DerpFest-AOSP/manifest"
 export rom_vendor_name="derp"
 export branch="13"
 export bacon="derp"
-export buildtype="user"
+export buildtype="userdebug"
 export clean="installclean"
 export upload_recovery="true"
 

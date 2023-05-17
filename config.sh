@@ -5,7 +5,7 @@ export GITHUB_EMAIL="sugoidekai488@gmail.com"
 
 export device="lavender"
 
-export ROM="VoidUI Tiramisu"
+export ROM="VoidUI"
 export ROM_DIR="$WORKSPACE/../VoidUI-Tiramisu-aosp-13"
 export ROM_VERSION="Tiramisu"
 export local_manifest_url="https://raw.githubusercontent.com/mizuswork/local_manifests/void/local_manifest.xml"
